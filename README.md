@@ -40,3 +40,12 @@
 ![ejercicios-9](https://user-images.githubusercontent.com/117187676/202811947-acd331b6-48d4-4793-ab83-527df5f1872b.jpg)
 
 ![ejercicios-10](https://user-images.githubusercontent.com/117187676/202811951-a8a3df7b-b776-40dc-b110-29cbdc396857.jpg)
+# 4. VIDEO
+https://youtu.be/02zqR8PBRw0
+# 5.CONCLUSIONES
+* Se puede concluir que existe una relacion de proporcionalidad matepmatica entre magnitudes como: Voltaje, resistencia, corriente, energia y potencia.
+* En conclucion,La Ley de Ohm es esencial al momento de realizar algún circuito electrónico, debido a que nos permite realizar los cálculos exactos o aproximados con decimales con el fin de tener la presencia de los valores que circulan por el circuito en cuestión.
+# 6. BIBLIOGRAFIA
+Ortiz, L. (2017). POTENCIA ELÉCTRICA. Recuperado de: https://preparatoriaabiertapuebla.com/wp-content/uploads/2017/11/POTENCIA-EL%C3%89CTRICA.pdf
+
+Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
